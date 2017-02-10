@@ -4,9 +4,11 @@ This project is a simple phone app that I made to enhance my understand of React
 
 It features a login system that makes use of Firebase as the underlying backend.
 
+![Alt text](/screenshots/screenshot1.png?raw=true "Auth App")
+
 ###Usage###
 
-Requirements: 
+Requirements:
 
 1. Node.js
 2. React Native
