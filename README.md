@@ -6,7 +6,7 @@ It features a login system that makes use of Firebase as the underlying backend.
 
 <img src="/screenshots/screenshot1.png" width="240">
 
-###Usage###
+### Usage ###
 
 Requirements:
 
